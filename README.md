@@ -20,5 +20,9 @@ Double.MAX_VALUE + 1
 
 Use *JShell* to experiment with Java
 
-Making changes for commit
-asdasd
+**This time, edits on my computer**
+
+* get code from Github
+* change directory to the one from the step above
+* modify text
+* send it back to Github
